@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/landscape-website/static/css/main.7e347a49.css",
-    "main.js": "/landscape-website/static/js/main.194fd9fb.js",
+    "main.css": "/landscape-website/static/css/main.33ae0def.css",
+    "main.js": "/landscape-website/static/js/main.1d180303.js",
     "static/media/cagliari.jpg": "/landscape-website/static/media/cagliari.8bd86ebd450f3c25a9fc.jpg",
     "index.html": "/landscape-website/index.html",
-    "main.7e347a49.css.map": "/landscape-website/static/css/main.7e347a49.css.map",
-    "main.194fd9fb.js.map": "/landscape-website/static/js/main.194fd9fb.js.map"
+    "main.33ae0def.css.map": "/landscape-website/static/css/main.33ae0def.css.map",
+    "main.1d180303.js.map": "/landscape-website/static/js/main.1d180303.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e347a49.css",
-    "static/js/main.194fd9fb.js"
+    "static/css/main.33ae0def.css",
+    "static/js/main.1d180303.js"
   ]
 }
