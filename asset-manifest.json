@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/landscape-website/static/css/main.94c7fff5.css",
+    "main.css": "/landscape-website/static/css/main.8f6b179e.css",
     "main.js": "/landscape-website/static/js/main.5836289f.js",
     "index.html": "/landscape-website/index.html",
-    "main.94c7fff5.css.map": "/landscape-website/static/css/main.94c7fff5.css.map",
+    "main.8f6b179e.css.map": "/landscape-website/static/css/main.8f6b179e.css.map",
     "main.5836289f.js.map": "/landscape-website/static/js/main.5836289f.js.map"
   },
   "entrypoints": [
-    "static/css/main.94c7fff5.css",
+    "static/css/main.8f6b179e.css",
     "static/js/main.5836289f.js"
   ]
 }
