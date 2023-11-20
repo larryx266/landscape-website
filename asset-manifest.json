@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/landscape-website/static/css/main.864d208e.css",
-    "main.js": "/landscape-website/static/js/main.5836289f.js",
+    "main.css": "/landscape-website/static/css/main.0c869ad5.css",
+    "main.js": "/landscape-website/static/js/main.b1f83a82.js",
     "index.html": "/landscape-website/index.html",
-    "main.864d208e.css.map": "/landscape-website/static/css/main.864d208e.css.map",
-    "main.5836289f.js.map": "/landscape-website/static/js/main.5836289f.js.map"
+    "main.0c869ad5.css.map": "/landscape-website/static/css/main.0c869ad5.css.map",
+    "main.b1f83a82.js.map": "/landscape-website/static/js/main.b1f83a82.js.map"
   },
   "entrypoints": [
-    "static/css/main.864d208e.css",
-    "static/js/main.5836289f.js"
+    "static/css/main.0c869ad5.css",
+    "static/js/main.b1f83a82.js"
   ]
 }
